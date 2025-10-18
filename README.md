@@ -1,6 +1,6 @@
 # 🎬 Netflix Content Analysis Project
 
-![Netflix Banner](images/netflix_banner.png)
+![Netflix Banner](https://media.sketchfab.com/models/d88447c9f3be4d66bb28fa2169a39168/thumbnails/e2b08d600b5c42809a48cb4fc731f7d0/dd9aa3df2bc54d078d8122e5bbe7c446.jpeg)
 
 ---
 
@@ -78,8 +78,3 @@ Some key insights and charts include:
 
 ---
 
-### 📸 Example Visualizations
-*(You can add charts here once generated)*  
-```markdown
-![Top Genres](images/top_genres.png)
-![Rating Distribution](images/rating_distribution.png)
